@@ -21,7 +21,7 @@
         }, {
             "course_id": "ApacheChallange",
             "title": "Test your knowledge.",
-            "description": ""
+            "description": "Install and configure Apache, PHP and MariaDB. Afterwards install and configure Wordpress."
       }
   ]
 }
