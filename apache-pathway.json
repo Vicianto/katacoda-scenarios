@@ -2,18 +2,22 @@
   "title": "Apache Web Server",
   "description": "Introduction into Apache Web Server. Finishing this course we will learn how to install and configure Apache. Install our first site and do some basic troubleshooting. Prerequirements: Linux Basics",
   "courses": [
-        {
+          {
             "course_id": "apache-1",
-            "title": "Apache Session 1 - Install Apache Web Server",
-            "description": "Learn how to install your first web server"
+            "title": "Apache Session 1 - Introduction",
+            "description": "Some basic information about the purpose of the web server."
         }, {
             "course_id": "apache-2",
-            "title": "Docker Basics 2 - Images & the Dockerfile",
-            "description": "Learn to manage images and create your own image in no time"
+            "title": "Apache Session 2 - Install and configure PHP and MariaDB",
+            "description": "Usually Apache alone is not enough. In this section we are going to check how we can install PHP and MariaDB."
         }, {
             "course_id": "apache-3",
-            "title": "Docker Basics 3 - Real life use case",
-            "description": "Create a Wordpress container with the necessary dependencies."
+            "title": "Apache Session 3 - Configuration and log files location",
+            "description": "Learn how to perform some basic configuration on your first web server and where the log files are located."
+        }, {
+            "course_id": "apache-4",
+            "title": "Apache Session 4 - Install phpMyAdmin",
+            "description": "In this scenario we are going to install your first web page called phpMyAdmin. It is a free web application to perform administration work for MySQL and MariaDB"
         }, {
             "course_id": "ApacheChallange",
             "title": "Test your knowledge.",
