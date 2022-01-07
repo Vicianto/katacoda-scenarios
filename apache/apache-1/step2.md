@@ -2,7 +2,7 @@ There are four leading web servers − Apache, IIS, lighttpd and Jagsaw. Now we 
 
 Apart from these Web Servers, there are other Web Servers also available in the market but they are very expensive. Major ones are Netscape's iPlanet, Bea's Web Logic and IBM's WebSphere.
 
-</b>pache HTTP Server</b>
+<b>Apache HTTP Server</b>
 This is the most popular web server in the world developed by the Apache Software Foundation. Apache web server is an open source software and can be installed on almost all operating systems including Linux, Unix, Windows, FreeBSD, Mac OS X and more. About 60% of the web server machines run the Apache Web Server.
 
 You can have Apache with tomcat module to have JSP and J2EE related support.
