@@ -10,7 +10,9 @@ A resource sent from a web server can be a preexisting file (static content) ava
 Technologies such as REST and SOAP, which use HTTP as a basis for general computer-to-computer communication, as well as support for WebDAV extensions, have extended the application of web servers well beyond their original purpose of serving human-readable pages.
 
 
-<h3>Now what??</h3>
+
+
+<h3>Common web server types:</h3>
 
 Click on continue to find out!
 
