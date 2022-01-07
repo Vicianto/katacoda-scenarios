@@ -1,1 +1,1 @@
-echo "fos"
+apt install mc
